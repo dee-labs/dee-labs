@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **dee-labs/dee-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm honored you're visiting my GitHub! :octocat:
+
+- 🔭 I am a full-stack software engineer.
+- 🌱 I’m currently learning backend development.
+- 📫 You can read more about me on LinkedIn.
+- 💬 Feel free to connect over email!
