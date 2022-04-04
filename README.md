@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### I'm honored you're visiting my GitHub! :octocat:
 
-#### - 🔭 I am a full-stack software engineer.
-#### - ⚡ I am also a Google certified data analyst.
-#### - 🌱 I’m currently learning IT support.
-#### - 📫 You can read more about me on [LinkedIn](https://www.linkedin.com/in/divine-ukonu-7b08031a4/).
-#### - 💬 Feel free to connect over [email!](divinechisom1995@gmail.com)
-#### - 😄 Pronouns: she, her.
+####  🔭 I am a full-stack software engineer.
+####  ⚡ I am also a Google certified data analyst.
+####  🌱 I’m currently learning IT support.
+####  📫 You can read more about me on [LinkedIn](https://www.linkedin.com/in/divine-ukonu-7b08031a4/).
+####  💬 Feel free to connect over [email!](divinechisom1995@gmail.com)
+####  😄 Pronouns: she, her.
