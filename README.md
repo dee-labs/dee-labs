@@ -1,28 +1,44 @@
 ## Hi there 👋
 
+### I'm honored you're visiting my GitHub! :octocat:
+
+
 <!--
 **dee-labs/dee-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+-->
+- 🔭 I’m currently working on a Data Analysis API
+- 🌱 I’m currently learning Backend Development
+- 👯 I’m looking to collaborate on tech related projects
+<!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### I'm honored you're visiting my GitHub! :octocat:
-
-- 🔭 I am a full-stack software engineer.
-- ⚡ I am also a Google certified data analyst.
-- 🌱 I’m currently learning IT support specialization.
-- 📫 You can read more about me on [LinkedIn](https://www.linkedin.com/in/divine-ukonu-7b08031a4/).
-- 💬 Feel free to connect over [email!](divinechisom1995@gmail.com)
-- 😄 Pronouns: she, her.
+- ⚡ Fun fact: ... -->
 
 
-![Divine's GitHub stats](https://github-readme-stats.vercel.app/apidee-labs=anuraghazra&show_icons=true&theme=synthwave)
+
+## ✉️ Find me on:
+
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/divine-ukonu-7b08031a4" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="divinechisom1995@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=dee-labs.dee-labs)
+
+[![Github](https://img.shields.io/github/followers/dee-labs?label=Follow&style=social)](https://github.com/dee-labs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-labs&show_icons=true&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-labs&theme=synthwave)
