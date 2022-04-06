@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-### I'm honored you're visiting my GitHub! :octocat:
+
+## I'm honored you're visiting my GitHub! :octocat:
 
 
 <!--
@@ -27,18 +28,12 @@ Here are some ideas to get you started:
  <a href="divinechisom1995@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-<br />
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dee-labs.dee-labs)
 
 [![Github](https://img.shields.io/github/followers/dee-labs?label=Follow&style=social)](https://github.com/dee-labs)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-labs&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-labs&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-labs&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-labs&theme=tokyonight)
