@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - 📫 You can read more about me on [LinkedIn](https://www.linkedin.com/in/divine-ukonu-7b08031a4/).
 - 💬 Feel free to connect over [email!](divinechisom1995@gmail.com)
 - 😄 Pronouns: she, her.
+
+
+![Divine's GitHub stats](https://github-readme-stats.vercel.app/apidee-labs=anuraghazra&show_icons=true&theme=synthwave)
