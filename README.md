@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a Data Analysis API
 - 🌱 I’m currently learning Backend Development
-- 👯 I’m looking to collaborate on tech related projects
+- 👯 I’m looking to collaborate on cloud devOps and data analytics projects
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/divine-ukonu-7b08031a4" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="divinechisom1995@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/divine-ukonu-7b08031a4" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="divinechisom1995@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
