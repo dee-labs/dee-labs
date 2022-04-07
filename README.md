@@ -9,8 +9,14 @@
 
 Here are some ideas to get you started:
 -->
+
+
+
+
 - 🔭 I’m currently working on a Data Analysis API
+
 - 🌱 I’m currently learning Backend Development
+
 - 👯 I’m looking to collaborate on cloud devOps and data analytics projects
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
