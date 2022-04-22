@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2019/08/28/19/10/binary-code-4437421_960_720.jpg" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -60,7 +56,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-labs&show_icons=true&theme=tokyonight)
+
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
@@ -104,12 +100,16 @@ Here are some ideas to get you started:
  <a href="divinechisom1995@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
+<div align="center">
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2019/08/28/19/10/binary-code-4437421_960_720.jpg" alt="cover" />
+</div>
+
 
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dee-labs.dee-labs)
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dee-labs&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-labs&theme=tokyonight)
 -->
  
