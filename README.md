@@ -39,7 +39,7 @@
 <a href = 'https://dee-labs.github.io/portfolio_project_landing_page.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/divine-chisom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  
- <h2> My Last Badges </h2>
+ <h2> My Latest Badges  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> </h2>
 <!--START_SECTION:badges-->
 
 [![Google UX Design Certificate](https://images.credly.com/size/110x110/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png)](http://www.credly.com/badges/9f104d99-0d46-410e-98ae-67777c11dc9b "Google UX Design Certificate")
@@ -81,7 +81,7 @@
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
 # Hi there 👋
 
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+
 
 <div size='20px'> Hi! My name is Divine Chisom Ukonu. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
