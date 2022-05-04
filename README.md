@@ -15,15 +15,13 @@
 
 <!--
 - 🔭 I’m currently working on Data Analysis API
+- 👯 I’m looking to collaborate on 
 -->
 
 - 🌱 I’m currently learning Backend Development
 
 
-- 👯 I’m looking to collaborate on data analysis, technical writing and IT support
-
-
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about IT support, Data Analysis, UI/UX Design and Technical Writing
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
