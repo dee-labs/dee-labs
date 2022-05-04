@@ -3,8 +3,7 @@
  
  ## I'm honored you're visiting my GitHub! :octocat:
 
- ![](https://visitor-badge.laobi.icu/badge?page_id=divine-chisom.divine-chisom)
-[![Github](https://img.shields.io/github/followers/divine-chisom?label=Follow&style=social)](https://github.com/divine-chisom)
+ ![](https://visitor-badge.laobi.icu/badge?page_id=divine-chisom.divine-chisom)      [![Github](https://img.shields.io/github/followers/divine-chisom?label=Follow&style=social)](https://github.com/divine-chisom)
 
 </p>
 
@@ -42,10 +41,9 @@
  <h2> My Latest Badges  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> </h2>
 <!--START_SECTION:badges-->
 
-[![Google UX Design Certificate](https://images.credly.com/size/110x110/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png)](http://www.credly.com/badges/9f104d99-0d46-410e-98ae-67777c11dc9b "Google UX Design Certificate")
-[![Google Data Analytics Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/41ae78b9-c3b8-465c-93be-acc9592e85c6 "Google Data Analytics Certificate")
-[![Google UX Design Professional Certificate](https://images.credly.com/size/110x110/images/1ad28ff4-5b00-43ee-9898-f002ef7c6a5a/GCC_badge_UX_1000x1000.png)](http://www.credly.com/badges/f1522c8b-3881-40d6-97eb-90d6ba592690 "Google UX Design Professional Certificate")
-[![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/10ce087a-9347-4796-a493-4f980331030d "Google Data Analytics Professional Certificate")
+[![Google UX Design Certificate](https://images.credly.com/size/110x110/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png)](http://www.credly.com/badges/9f104d99-0d46-410e-98ae-67777c11dc9b "Google UX Design Certificate")    [![Google Data Analytics Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/41ae78b9-c3b8-465c-93be-acc9592e85c6 "Google Data Analytics Certificate")
+<!--[![Google UX Design Professional Certificate](https://images.credly.com/size/110x110/images/1ad28ff4-5b00-43ee-9898-f002ef7c6a5a/GCC_badge_UX_1000x1000.png)](http://www.credly.com/badges/f1522c8b-3881-40d6-97eb-90d6ba592690 "Google UX Design Professional Certificate")
+[![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/10ce087a-9347-4796-a493-4f980331030d "Google Data Analytics Professional Certificate")-->
 <!--END_SECTION:badges-->
 
 
