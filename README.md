@@ -10,12 +10,6 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<!--
-- 🔭 I’m currently working on Data Analysis API
-- 👯 I’m looking to collaborate on 
--->
 
 - 🌱 I’m currently learning Backend Development
 
@@ -68,7 +62,7 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=divine-chisom&show_icons=true&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divine-chisom&theme=tokyonight)                               ![GitHub stats](https://github-readme-stats.vercel.app/api?username=divine-chisom&show_icons=true&theme=tokyonight) 
  
  <!--
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
@@ -91,6 +85,12 @@
 Here are some ideas to get you started:
 
 
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 I’m currently working on Data Analysis API
+- 👯 I’m looking to collaborate on 
 
 
 
@@ -123,8 +123,8 @@ Here are some ideas to get you started:
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dee-labs.dee-labs)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dee-labs&theme=tokyonight)
 -->
+
+
+
  
