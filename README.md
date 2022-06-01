@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%> </h1>
 <p align='center'>
  
  ## I'm honored you're visiting my GitHub! :octocat:
@@ -17,7 +17,7 @@
 - 💬 Talk to me about IT support, Data Analysis, UI/UX Design and Technical Writing
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> </h2>
 <a href= https://github.com/dee-labs?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/dee-labs?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/dee-labs?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
@@ -25,19 +25,17 @@
 <a href= https://github.com/dee-labs?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <a href= https://github.com/dee-labs?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
  
- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+ <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10%"> </h2>
 <a href = 'https://www.linkedin.com/in/divine-ukonu-7b08031a4'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/@chisom_ukonu'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@divinechisom1995'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://dee-labs.github.io/portfolio_project_landing_page.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/divine-chisom'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  
- <h2> My Latest Badges  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> </h2>
+ <h2> My Latest Badges  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 10%> </h2>
 <!--START_SECTION:badges-->
 
 [![Meta Social Media Marketing Professional Certificate](https://images.credly.com/size/110x110/images/db727efb-6d7a-4e87-852f-e92f76811539/Partnerships_Social_Media_Pro_Square_800.png)](http://www.credly.com/badges/e64b3858-85c4-4764-876a-62019e729a16 "Meta Social Media Marketing Professional Certificate")
-[![Google UX Design Certificate](https://images.credly.com/size/110x110/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png)](http://www.credly.com/badges/9f104d99-0d46-410e-98ae-67777c11dc9b "Google UX Design Certificate")
-[![Google Data Analytics Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/41ae78b9-c3b8-465c-93be-acc9592e85c6 "Google Data Analytics Certificate")
 [![Google UX Design Professional Certificate](https://images.credly.com/size/110x110/images/1ad28ff4-5b00-43ee-9898-f002ef7c6a5a/GCC_badge_UX_1000x1000.png)](http://www.credly.com/badges/f1522c8b-3881-40d6-97eb-90d6ba592690 "Google UX Design Professional Certificate")
 [![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/10ce087a-9347-4796-a493-4f980331030d "Google Data Analytics Professional Certificate")
 <!--END_SECTION:badges-->
@@ -45,7 +43,7 @@
 
 
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 7%> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Divine_Chisom&compact=True"/>
 </a>
@@ -61,7 +59,7 @@
 - [What happens when you type `ls -l *.c` in the shell?](https://medium.com/@divinechisom1995/what-happens-when-you-type-ls-l-c-in-the-shell-87ac3c200330?source=rss-ef41f2c2a6f3------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> </h2>
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divine-chisom&theme=tokyonight)                               ![GitHub stats](https://github-readme-stats.vercel.app/api?username=divine-chisom&show_icons=true&theme=tokyonight) 
  
