@@ -35,6 +35,7 @@
  <h2> My Latest Badges  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 10%> </h2>
 <!--START_SECTION:badges-->
 
+[![Meta Certified Digital Marketing Associate](https://images.credly.com/size/110x110/images/e9d3dcc5-e1b5-4aba-942a-9e1630ef2b02/Digital_Mar_Assoc_800.png)](http://www.credly.com/badges/d9cc76a1-715e-4327-b8e9-2acd6830459d "Meta Certified Digital Marketing Associate")
 [![Meta Social Media Marketing Professional Certificate](https://images.credly.com/size/110x110/images/db727efb-6d7a-4e87-852f-e92f76811539/Partnerships_Social_Media_Pro_Square_800.png)](http://www.credly.com/badges/e64b3858-85c4-4764-876a-62019e729a16 "Meta Social Media Marketing Professional Certificate")
 [![Google UX Design Professional Certificate](https://images.credly.com/size/110x110/images/1ad28ff4-5b00-43ee-9898-f002ef7c6a5a/GCC_badge_UX_1000x1000.png)](http://www.credly.com/badges/f1522c8b-3881-40d6-97eb-90d6ba592690 "Google UX Design Professional Certificate")
 [![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/10ce087a-9347-4796-a493-4f980331030d "Google Data Analytics Professional Certificate")
