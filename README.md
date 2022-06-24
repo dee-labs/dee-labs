@@ -11,8 +11,9 @@
 <h2> About Me </h2>
 
 
-- 🌱 I’m currently learning Backend Development
+- 🔭 I’m currently working on an [E-commerce Web App](https://github.com/divine-chisom/E-commerce_Web_App)
 
+- 🌱 I’m currently learning Backend Development
 
 - 💬 Talk to me about IT support, Data Analysis, UI/UX Design and Technical Writing
 
