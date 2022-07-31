@@ -58,7 +58,7 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens when you type `ls -l *.c` in the shell?](https://medium.com/@divinechisom1995/what-happens-when-you-type-ls-l-c-in-the-shell-87ac3c200330?source=rss-ef41f2c2a6f3------2)
+- [What happens when you type `ls -l *.c` in the shell?](https://medium.com/@divine-chisom/what-happens-when-you-type-ls-l-c-in-the-shell-87ac3c200330?source=rss-ef41f2c2a6f3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> </h2>
