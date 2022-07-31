@@ -11,7 +11,7 @@
 <h2> About Me </h2>
 
 
-- 🔭 I’m currently working on an [E-commerce Web App](https://github.com/divine-chisom/E-commerce_Web_App)
+- 🔭 I’m currently working writing an article on the mordern computer
 
 - 🌱 I’m currently learning Backend Development
 
