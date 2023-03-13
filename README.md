@@ -11,9 +11,9 @@
 <h2> About Me </h2>
 
 
-- 🔭 I’m currently working writing an article on the mordern computer
+- 🔭 Divine Chisom Ukonu is a data enthusiast with a Bachelor of Agriculture in Animal Science
 
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning Data Science and Machine Learning
 
 - 💬 Talk to me about IT support, Data Analysis, UI/UX Design and Technical Writing
 
