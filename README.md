@@ -59,6 +59,7 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey: Computer-Based Testing &lpar;CBT&rpar; System](https://medium.com/@divine-chisom/my-journey-computer-based-testing-system-456221aab4db?source=rss-ef41f2c2a6f3------2)
 - [What happens when you type `ls -l *.c` in the shell?](https://medium.com/@divine-chisom/what-happens-when-you-type-ls-l-c-in-the-shell-87ac3c200330?source=rss-ef41f2c2a6f3------2)
 <!-- BLOG-POST-LIST:END -->
 
