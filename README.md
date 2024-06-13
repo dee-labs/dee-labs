@@ -36,11 +36,11 @@
  <h2> My Latest Badges  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 10%> </h2>
 <!--START_SECTION:badges-->
 
-[![Google IT Support Certificate non-endorsed](https://images.credly.com/size/110x110/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](http://www.credly.com/badges/713d6c7f-5381-4d8d-8535-9386b5a1c95d "Google IT Support Certificate non-endorsed")
+[![Google IT Support Certificate](https://images.credly.com/size/110x110/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](http://www.credly.com/badges/713d6c7f-5381-4d8d-8535-9386b5a1c95d "Google IT Support Certificate")
 [![Meta Certified Digital Marketing Associate](https://images.credly.com/size/110x110/images/e9d3dcc5-e1b5-4aba-942a-9e1630ef2b02/Digital_Mar_Assoc_800.png)](http://www.credly.com/badges/d9cc76a1-715e-4327-b8e9-2acd6830459d "Meta Certified Digital Marketing Associate")
 [![Meta Social Media Marketing Professional Certificate](https://images.credly.com/size/110x110/images/5c19a248-0870-4e02-be64-2309b4c69956/image.png)](http://www.credly.com/badges/e64b3858-85c4-4764-876a-62019e729a16 "Meta Social Media Marketing Professional Certificate")
-[![Google UX Design Professional Certificate (non-endorsed)](https://images.credly.com/size/110x110/images/1ad28ff4-5b00-43ee-9898-f002ef7c6a5a/GCC_badge_UX_1000x1000.png)](http://www.credly.com/badges/f1522c8b-3881-40d6-97eb-90d6ba592690 "Google UX Design Professional Certificate (non-endorsed)")
-[![Google Data Analytics Professional Certificate - non-endorsed](https://images.credly.com/size/110x110/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/10ce087a-9347-4796-a493-4f980331030d "Google Data Analytics Professional Certificate - non-endorsed")
+[![Google UX Design Professional Certificate](https://images.credly.com/size/110x110/images/1ad28ff4-5b00-43ee-9898-f002ef7c6a5a/GCC_badge_UX_1000x1000.png)](http://www.credly.com/badges/f1522c8b-3881-40d6-97eb-90d6ba592690 "Google UX Design Professional Certificate")
+[![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/10ce087a-9347-4796-a493-4f980331030d "Google Data Analytics Professional Certificate")
 <!--END_SECTION:badges-->
 
 
